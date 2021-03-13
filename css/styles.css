@@ -166,6 +166,14 @@ img {
   justify-content: center;
 }
 
+#tab-2-content .tab-2-content-top {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
 /* CONTAINER STYLES */
 
 .container {
