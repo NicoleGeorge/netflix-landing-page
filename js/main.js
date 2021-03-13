@@ -5,6 +5,7 @@ const tabContentItems = document.querySelectorAll('.tab-content-item');
 
 function selectItem(e) {
   removeBorder();
+  removeShow();
   // adding border tp ctive tab
   this.classList.add('tab-border');
 }
@@ -13,6 +14,10 @@ function selectItem(e) {
 
 function removeBorder() {
   tabItems.forEach((item) => item.classList.remove('tab-border'));
+}
+
+function removeShow() {
+  tabContentItems.forEach((item) => item.classList.remove('show'));
 }
 // Event Listener
 tabItems.forEach((item) => item.addEventListener('click', selectItem));
