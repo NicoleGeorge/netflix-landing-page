@@ -9,14 +9,5 @@ Responsive Showcase: </br>
 Hero Section: </br>
 <a href="#" rel="nofollow"><img height="550" src="" style="max-width:100%;" target="_blank"></a>
 
-Content Tabs: </br>
-<a href="#" rel="nofollow"><img height="550" src="" style="max-width:100%;" target="_blank"></a>
-
-Footer: </br>
-<a href="#" rel="nofollow"><img height="550" src="" style="max-width:100%;" target="_blank"></a>
-
-Tablet View </br>
-<a href="#" rel="nofollow"><img height="550" src="" style="max-width:100%;" target="_blank"></a>
-
-Mobile View </br>
+Multiple Device View </br>
 <a href="#" rel="nofollow"><img height="550" src="" style="max-width:100%;" target="_blank"></a>
