@@ -58,6 +58,7 @@ img {
   height: 100%;
   z-index: 1;
   background: rgba(0, 0, 0, 0.6);
+  box-shadow: inset 100px 100px 250px #000, inset -120px -100px 250px #000;
 }
 
 .showcase-top {
@@ -67,11 +68,11 @@ img {
 }
 
 .showcase-top img {
-  width: 170px;
+  width: 150px;
   position: absolute;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  left: 5%;
+  transform: translate(-5%, -5%);
 }
 
 .showcase-top a {
@@ -97,13 +98,13 @@ img {
 
 .showcase-content h1 {
   font-weight: 700;
-  font-size: 5.2rem;
+  font-size: 3.2rem;
   line-height: 1.1;
-  margin: 0 0 2rem;
+  margin: 2rem 0 2rem;
 }
 
 .showcase-content p {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   color: #fff;
   font-weight: 400;
   font-size: 1.9rem;
@@ -140,6 +141,7 @@ img {
   font-size: 2rem;
   padding: 1.5rem 2.1rem;
   text-transform: uppercase;
+  margin: 2rem 0;
 }
 
 .btn-lg {
