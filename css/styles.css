@@ -213,6 +213,11 @@ img {
   color: #999;
 }
 
+.text-md {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
 /* BUTTON STYLES */
 
 .btn {
